@@ -38,10 +38,15 @@ Todas estas técnicas se usan para proteger datos personales, en este caso se re
  1. Abre el archivo `AA6_Avila_Nelcy_Taller_Python.ipynb` en Google Colab o Jupyter Notebook.
 
  2. Asegúrate de instalar las librerías necesarias, en este caso las que se usaron son:
+
     -import pandas as pd
+    
     -from cryptography.fernet import Fernet
+    
     -import hashlib
+    
     -import bcrypt
+    
 Ejecuta las celdas en orden de acuerdo alcódigo realizado, empezando de laparte superior.
 
 En laparte final, en la que te pide la contraseña usa esta: accesopaciente2025
